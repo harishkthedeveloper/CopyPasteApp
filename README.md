@@ -1,5 +1,5 @@
 
-
+```
 import 'package:flutter/material.dart';
 
 class SliderContainer extends StatelessWidget {
@@ -75,4 +75,4 @@ class SliderContainer extends StatelessWidget {
 
 }
 
-
+```
