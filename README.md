@@ -1,4 +1,4 @@
-import 'dart:ui';
+``` import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
@@ -154,3 +154,4 @@ class _SliderContainerState extends State<SliderContainer> {
     return indicators;
   }
 }
+ ```
