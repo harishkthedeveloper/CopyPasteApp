@@ -154,4 +154,5 @@ class _SliderContainerState extends State<SliderContainer> {
     return indicators;
   }
 }
+
  ```
